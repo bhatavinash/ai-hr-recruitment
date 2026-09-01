@@ -1,0 +1,45 @@
+{
+    "name": "Avinash Bhat",
+    "email": "avibhat888@gmail.com",
+    "phone": "+91-7483296201",
+    "location": "Bangalore, Karnataka",
+    "skills": [
+        "Python",
+        "SQL",
+        "PL/SQL",
+        "C",
+        "ODI 12c",
+        "ETL",
+        "Data Warehouse",
+        "Data Modeling",
+        "PySpark",
+        "Azure",
+        "AWS",
+        "Oracle APEX",
+        "Power BI",
+        "Git",
+        "CI/CD",
+        "Linux",
+        "Machine Learning",
+        "LangChain",
+        "LLM Finetuning",
+        "RAG"
+    ],
+    "experience_years": 1.33,
+    "education": [
+        "Master of Technology in Computer Network and Engineering, M S Ramaiah Institute of Technology",
+        "Bachelor of Engineering in Computer Science and Engineering, SDM Institute of Technology"
+    ],
+    "companies": [
+        "Oracle"
+    ],
+    "job_titles": [
+        "Application Developer",
+        "Project Intern"
+    ],
+    "projects": [
+        "DDoS Detection using GAN and Deep Learning",
+        "Fake News Detection using RoBERTa and DistilBERT"
+    ],
+    "certifications": []
+}
